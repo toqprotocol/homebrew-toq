@@ -1,4 +1,4 @@
-class Toq < Formula
+class ToqAT010alpha2 < Formula
   desc "Secure agent-to-agent communication protocol"
   homepage "https://toq.dev"
   license "Apache-2.0"
